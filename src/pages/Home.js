@@ -7,7 +7,7 @@ export async function renderHome(main) {
     <div class="container page">
       <section class="hero">
         <div class="hero__emoji">🐾</div>
-        <h1 class="hero__title">The <em>Pokedex</em> for<br>our class pets</h1>
+        <h1 class="hero__title">The <em>Pokedex</em> for<br>clitters</h1>
         <p class="hero__sub">Meet every fluffy, scaly, and feathery friend from our classroom community.</p>
         <div class="hero__actions">
           <button class="btn btn--primary" onclick="navigate('/gallery')">Browse All Pets</button>
